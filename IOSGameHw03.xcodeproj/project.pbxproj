@@ -7,19 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B0539D92620F8B50034DDDC /* Record.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0539D82620F8B50034DDDC /* Record.swift */; };
+		3B0539DE2620FFBD0034DDDC /* RecordData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0539DD2620FFBD0034DDDC /* RecordData.swift */; };
+		3B0539E1262113710034DDDC /* LeaderboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0539E0262113710034DDDC /* LeaderboardView.swift */; };
 		3B22A224260C602A00C3E080 /* IOSGameHw03App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B22A223260C602A00C3E080 /* IOSGameHw03App.swift */; };
 		3B22A226260C602A00C3E080 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B22A225260C602A00C3E080 /* ContentView.swift */; };
 		3B22A228260C602B00C3E080 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B22A227260C602B00C3E080 /* Assets.xcassets */; };
 		3B22A22B260C602B00C3E080 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B22A22A260C602B00C3E080 /* Preview Assets.xcassets */; };
+		3B2FC4772620872A009A4E5A /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2FC4762620872A009A4E5A /* ResultView.swift */; };
+		3B2FC47A2620903F009A4E5A /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2FC4792620903F009A4E5A /* Timer.swift */; };
+		3B2FC47E262098D4009A4E5A /* AntiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2FC47D262098D4009A4E5A /* AntiView.swift */; };
+		3B2FC48526209EA3009A4E5A /* music.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 3B2FC48426209EA3009A4E5A /* music.mp4 */; };
+		3B86A9BB261AE29F00B357A4 /* Wicked Mouse Demo.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3B86A9BA261AE29F00B357A4 /* Wicked Mouse Demo.otf */; };
+		3B86A9C3261AE51D00B357A4 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B86A9C2261AE51D00B357A4 /* GameView.swift */; };
+		3B86A9C6261AE72400B357A4 /* Twiddlestix.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3B86A9C5261AE72400B357A4 /* Twiddlestix.otf */; };
+		3B86A9CA261AFCC200B357A4 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B86A9C9261AFCC100B357A4 /* Data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B0539D82620F8B50034DDDC /* Record.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Record.swift; sourceTree = "<group>"; };
+		3B0539DD2620FFBD0034DDDC /* RecordData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordData.swift; sourceTree = "<group>"; };
+		3B0539E0262113710034DDDC /* LeaderboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeaderboardView.swift; sourceTree = "<group>"; };
 		3B22A220260C602A00C3E080 /* IOSGameHw03.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSGameHw03.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B22A223260C602A00C3E080 /* IOSGameHw03App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOSGameHw03App.swift; sourceTree = "<group>"; };
 		3B22A225260C602A00C3E080 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3B22A227260C602B00C3E080 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B22A22A260C602B00C3E080 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3B22A22C260C602B00C3E080 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B2FC4762620872A009A4E5A /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		3B2FC4792620903F009A4E5A /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
+		3B2FC47D262098D4009A4E5A /* AntiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntiView.swift; sourceTree = "<group>"; };
+		3B2FC48426209EA3009A4E5A /* music.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = music.mp4; sourceTree = SOURCE_ROOT; };
+		3B86A9BA261AE29F00B357A4 /* Wicked Mouse Demo.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Wicked Mouse Demo.otf"; path = "wicked-mouse/Wicked Mouse Demo.otf"; sourceTree = SOURCE_ROOT; };
+		3B86A9C2261AE51D00B357A4 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		3B86A9C5261AE72400B357A4 /* Twiddlestix.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Twiddlestix.otf; path = twiddlestix/Twiddlestix.otf; sourceTree = SOURCE_ROOT; };
+		3B86A9C9261AFCC100B357A4 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +76,17 @@
 			children = (
 				3B22A223260C602A00C3E080 /* IOSGameHw03App.swift */,
 				3B22A225260C602A00C3E080 /* ContentView.swift */,
+				3B2FC47D262098D4009A4E5A /* AntiView.swift */,
+				3B86A9C2261AE51D00B357A4 /* GameView.swift */,
+				3B2FC4762620872A009A4E5A /* ResultView.swift */,
+				3B0539E0262113710034DDDC /* LeaderboardView.swift */,
+				3B0539D82620F8B50034DDDC /* Record.swift */,
+				3B0539DD2620FFBD0034DDDC /* RecordData.swift */,
+				3B86A9C9261AFCC100B357A4 /* Data.swift */,
+				3B2FC4792620903F009A4E5A /* Timer.swift */,
+				3B2FC48426209EA3009A4E5A /* music.mp4 */,
+				3B86A9BA261AE29F00B357A4 /* Wicked Mouse Demo.otf */,
+				3B86A9C5261AE72400B357A4 /* Twiddlestix.otf */,
 				3B22A227260C602B00C3E080 /* Assets.xcassets */,
 				3B22A22C260C602B00C3E080 /* Info.plist */,
 				3B22A229260C602B00C3E080 /* Preview Content */,
@@ -126,8 +159,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B86A9BB261AE29F00B357A4 /* Wicked Mouse Demo.otf in Resources */,
 				3B22A22B260C602B00C3E080 /* Preview Assets.xcassets in Resources */,
 				3B22A228260C602B00C3E080 /* Assets.xcassets in Resources */,
+				3B2FC48526209EA3009A4E5A /* music.mp4 in Resources */,
+				3B86A9C6261AE72400B357A4 /* Twiddlestix.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +174,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B0539E1262113710034DDDC /* LeaderboardView.swift in Sources */,
 				3B22A226260C602A00C3E080 /* ContentView.swift in Sources */,
+				3B86A9C3261AE51D00B357A4 /* GameView.swift in Sources */,
+				3B2FC4772620872A009A4E5A /* ResultView.swift in Sources */,
+				3B2FC47E262098D4009A4E5A /* AntiView.swift in Sources */,
+				3B2FC47A2620903F009A4E5A /* Timer.swift in Sources */,
 				3B22A224260C602A00C3E080 /* IOSGameHw03App.swift in Sources */,
+				3B0539D92620F8B50034DDDC /* Record.swift in Sources */,
+				3B0539DE2620FFBD0034DDDC /* RecordData.swift in Sources */,
+				3B86A9CA261AFCC200B357A4 /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
